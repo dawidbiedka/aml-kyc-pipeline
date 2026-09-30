@@ -7,3 +7,7 @@ data/staging/*
 !data/raw/.gitkeep
 !data/staging/.gitkeep
 config/airflow.cfg
+.env
+logs/
+data/
+__pycache__/
