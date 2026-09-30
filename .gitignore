@@ -1,0 +1,10 @@
+.env
+logs/
+config/airflow.cfg
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+data/raw/*
+data/staging/*
+!data/**/.gitkeep
